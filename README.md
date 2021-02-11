@@ -1,1 +1,1 @@
-study of programming
+習作
